@@ -1,6 +1,6 @@
 # Password Generator – PracticePython.org Exercise 16
 
-Author: Maksym Pronin  
+By: Maksym Pronin  
 Date: June 25, 2025  
 Based on: [PracticePython.org – Exercise 16](https://www.practicepython.org/exercise/2014/05/28/16-password-generator.html)
 
